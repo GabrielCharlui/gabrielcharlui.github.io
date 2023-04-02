@@ -16,14 +16,12 @@ html {
 }
 
 .pfimg {
-  position: relative;
-  display: inline-block;
   width: 30px;
-  top: 10px;
-  margin: 0px;
-  float: none;
+  top: 15px;
+  float: left;
   bottom: 0;
   mix-blend-mode: multiply;
+  position: relative;
 }
 
 .topleft {
